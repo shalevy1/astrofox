@@ -111,7 +111,7 @@
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "semver": "^7.3.2",
-    "three": "^0.116.1",
+    "three": "^0.125.0",
     "tinycolor2": "^1.4.1"
   },
   "devDependencies": {
